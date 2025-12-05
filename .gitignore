@@ -47,3 +47,6 @@ dist/
 # Ignore temporary files
 *.bak
 *.swp
+
+# Ignore my documentation
+docs/
