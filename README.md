@@ -11,4 +11,4 @@ The project focuses on BI and data analytics solution using a real-world custome
 
 ## Project Overview
 Our objective was to move beyond simple positive/negative sentiment metrics and identify the root causes or themes driving customer satisfaction and dissatisfaction across various product categories and platforms.
-The solution demonstrates a full data science pipeline: data ingestion, text preprocessing, unsupervised machine learning (Topic Modeling via NMF or LDA), and the integration of unstructured text insights with structured operational data to answer critical stakeholder questions within an organization.
+The solution demonstrates a full data science pipeline: data ingestion, text preprocessing, unsupervised machine learning (Topic Modeling via NMF or LDA), and the integration of unstructured text insights with structured operational data to answer critical stakeholder questions.
