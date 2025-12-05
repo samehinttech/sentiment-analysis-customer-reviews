@@ -1,0 +1,17 @@
+# Core Data Science
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# NLP & Machine Learning
+nltk
+scikit-learn
+
+# Jupyter Notebook
+jupyter
+notebook
+ipykernel
