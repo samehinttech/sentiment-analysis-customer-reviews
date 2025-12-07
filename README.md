@@ -11,3 +11,16 @@ The project focuses on BI and data analytics solution using a real-world custome
 
 ## Project Overview
 
+## References
+- [Customer Sentiment Dataset on Kaggle](https://www.kaggle.com/datasets/kundanbedmutha/customer-sentiment-dataset)
+- [Python Documentation](https://docs.python.org/3.13/contents.html)
+- [Pandas Documentation](https://pandas.pydata.org/docs/user_guide/index.html)
+- [Seaborn Documentation](https://seaborn.pydata.org/tutorial.html)
+- [Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/user_guide.html)
+- [NLTK Documentation](https://www.nltk.org/)
+- [spaCy Documentation](https://spacy.io/usage)
+- [Transformers Documentation](https://huggingface.co/docs/transformers/index)
+- [Hugging Face Models](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment)
+- [TextBlob Documentation](https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis)
+- [VADER Sentiment Analysis](https://vadersentiment.readthedocs.io/en/latest/pages/features_and_updates.html)
