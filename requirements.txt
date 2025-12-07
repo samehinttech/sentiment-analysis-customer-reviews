@@ -7,9 +7,18 @@ matplotlib
 seaborn
 wordcloud
 
-# NLP & Machine Learning
+# NLP & Text Processing
 nltk
+spacy
+textblob
+vaderSentiment
+
+# Machine Learning
 scikit-learn
+
+# Deep Learning & Transformers
+transformers
+torch
 
 # Jupyter Notebook
 jupyter
