@@ -9,7 +9,6 @@ wordcloud
 
 # NLP & Text Processing
 nltk
-spacy
 textblob
 vaderSentiment
 
