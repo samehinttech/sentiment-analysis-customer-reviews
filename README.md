@@ -12,33 +12,6 @@ This repository contains the deliverables for a group project completed by BIT s
 
 The project focuses on BI and data analytics solution using a real-world customer feedback dataset. The primary goal is to apply data science and Natural Language Processing (NLP) techniques to extract actionable business insights.
 
-### Stakeholders
-
-- **Customer Service Manager** – Oversees support team; identifies common complaints and service issues
-- **Product Manager** – Manages product quality; understands product feedback (quality, packaging, delivery)
-- **Marketing Team** – Creates campaigns; finds positive testimonials and areas for improvement
-- **Operations Manager** – Manages logistics; monitors delivery and packaging feedback
-
-### Trigger
-
-- **Weekly Review Meetings** – Customer service team reviews sentiment trends and identifies top complaints to prioritize
-- **Quarterly Reports** – Management needs sentiment metrics and feature insights for business decisions
-
-### Analytical Questions
-
-1. What is the overall sentiment distribution of customer reviews?
-2. Which product features (delivery, quality, packaging, service, price) receive positive vs negative feedback?
-3. What are the most common topics/themes in negative reviews?
-4. Which areas should we prioritize for improvement based on customer feedback?
-
-### Expected Results
-
-- **Sentiment Dashboard** – Visual overview of sentiment distribution across ratings and categories
-- **Model Comparison** – Accuracy metrics for VADER, Naive Bayes, Logistic Regression, and BERT
-- **Feature Analysis Report** – Sentiment scores per feature (delivery, quality, service, price, value)
-- **Word Clouds** – Visual representation of common terms per sentiment class
-- **Processed Dataset** – Exported CSV with predictions for further analysis
-
 ---
 
 ## Implementation
@@ -142,12 +115,9 @@ Raw Reviews → Text Preprocessing → Feature Extraction → Sentiment Classifi
 > Sorry for that but you need to be patient as some steps (like BERT inference) may take time depending on your hardware.
 
 ---
-
 ## References
 
-### Tutorials
-- Acknowledgements to our great instructor for his support and guidance throughout the learning journey.
-  (Greate teaching materials and tutorials provided by him were instrumental in completing this project successfully.)
+### Official Tutorials
 - [TensorFlow: Basic Text Classification (Sentiment Analysis)](https://www.tensorflow.org/tutorials/keras/text_classification) 
 - [TensorFlow: Classify Text with BERT](https://www.tensorflow.org/text/tutorials/classify_text_with_bert)
 - [TensorFlow Hub: Text Classification with Movie Reviews](https://www.tensorflow.org/hub/tutorials/tf2_text_classification)
@@ -157,7 +127,7 @@ Raw Reviews → Text Preprocessing → Feature Extraction → Sentiment Classifi
 
 - [Customer Sentiment Dataset on Kaggle](https://www.kaggle.com/datasets/kundanbedmutha/customer-sentiment-dataset)
 
-### Libraries Documentation
+### Official Documentation
 
 - [Python Documentation](https://docs.python.org/3.13/contents.html)
 - [Pandas Documentation](https://pandas.pydata.org/docs/user_guide/index.html)
@@ -170,3 +140,9 @@ Raw Reviews → Text Preprocessing → Feature Extraction → Sentiment Classifi
 - [Hugging Face Models](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment)
 - [TextBlob Documentation](https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis)
 - [VADER Sentiment Analysis](https://vadersentiment.readthedocs.io/en/latest/pages/features_and_updates.html)
+
+---
+## Acknowledgement
+We would like to thank our Teacher for his guidance and support throughout
+this project. The teaching materials and tutorials provided were instrumental
+in completing this work successfully.
