@@ -50,3 +50,7 @@ dist/
 
 # Ignore my documentation
 docs/
+
+
+# Ignore experimental files
+notebooks/experiments_comparison.ipynb
